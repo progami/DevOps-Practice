@@ -34,5 +34,9 @@ https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solut
 - AWS Practice Exams - Neal Davis - Udemy - 6 x
 - AWS Practice Exams - Stephane Maarek - Udemy - 6 x
 
-## 7. Other Cool Videos
-- TBD
+## 7. Other Cool Stuff
+- Quick exam readiness check
+
+https://digitalcloud.training/aws-certified-solutions-architect-saa-c02/
+
+
