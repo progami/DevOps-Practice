@@ -33,3 +33,6 @@ https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solut
 ## 6. Practice Exams (Paid)
 - AWS Practice Exams - Neal Davis - Udemy - 6 x
 - AWS Practice Exams - Stephane Maarek - Udemy - 6 x
+
+## 7. Other Cool Videos
+- TBD
