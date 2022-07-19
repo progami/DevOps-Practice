@@ -12,10 +12,10 @@ Refer to decision trees folder
 
 ## 3.AWS Resources - AWS Skill Builder
 
-Architect Learning Plan
+- Architect Learning Plan
 https://explore.skillbuilder.aws/learn/lp/78/architect-learning-plan 
 	
-Exam prep check course
+- Exam prep check course
 https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate
 
 ## 4. Whitepapers
@@ -25,9 +25,9 @@ https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solut
 - Serverless multi-tier architecture
 
 ## 5. Other Resources (Paid)
-A Cloud Guru Subscription
-Jon Bonso | Practice Exam
+- A Cloud Guru Subscription
+- Jon Bonso | Practice Exam
 
 ## 6. Practice Exams (Paid)
-AWS Practice Exams - Neal Davis - Udemy - 6 x
-AWS Practice Exams - Stephane Maarek - Udemy - 6 x
+- AWS Practice Exams - Neal Davis - Udemy - 6 x
+- AWS Practice Exams - Stephane Maarek - Udemy - 6 x
