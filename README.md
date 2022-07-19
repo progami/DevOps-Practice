@@ -25,6 +25,7 @@ https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solut
 - 6 x Pillars whitepapers - Operational Excellance, Security, Cost, Sustainability, Efficiency, Reliability
 - AWS VPC Connectivity
 - Serverless multi-tier architecture
+- S3 Best Practices
 
 ## 5. Other Resources (Paid)
 - A Cloud Guru Subscription
