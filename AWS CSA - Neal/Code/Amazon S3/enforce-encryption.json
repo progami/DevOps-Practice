@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Id": "PutObjPolicy",
+    "Statement": [
+        {
+            "Sid": "DenyUnEncryptedObjectUploads",
+            "Effect": "Deny",
+            "Principal": "*",
+            "Action": "s3:PutObject",
+            "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME/*",
+            "Condition": {
+                "Null": {
+                    "s3:x-amz-server-side-encryption": "true"
+                }
+            }
+        }
+    ]
+}
+
+## Command without encryption: aws s3 cp YOUR-FILE-NAME s3://YOUR-BUCKET-NAME
+## Command with encryption: aws s3api put-object --body YOUR-FILE-NAME --key YOUR-FILE-NAME --bucket YOUR-BUCKET-NAME --server-side-encryption AES256
