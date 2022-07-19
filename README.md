@@ -1,11 +1,11 @@
 # Preparation guidlines for AWS CSA - Associate Exam
 
 ## 0. Udemy Courses (Paid)
-AWS Course- Stephane Maarek
-AWS Course- Neal Davis
+- AWS Course- Stephane Maarek
+- AWS Course- Neal Davis
 
 ## 1. Cheat Sheets
-https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/
+- https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/
 
 ## 2.Decision Trees
 Refer to decision trees folder
