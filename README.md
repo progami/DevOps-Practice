@@ -12,10 +12,10 @@ Refer to decision trees folder
 
 ## 3.AWS Resources - AWS Skill Builder
 
-- Architect Learning Plan
+- Architect Learning Plan\n
 https://explore.skillbuilder.aws/learn/lp/78/architect-learning-plan 
 	
-- Exam prep check course
+- Exam prep check course\n
 https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solutions-architect-associate
 
 ## 4. Whitepapers
