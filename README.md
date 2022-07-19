@@ -1,16 +1,16 @@
 # Preparation guidlines for AWS CSA - Associate Exam
 
-##0. Udemy Courses (Paid)
+## 0. Udemy Courses (Paid)
 AWS Course- Stephane Maarek
 AWS Course- Neal Davis
 
-##1. Cheat Sheets
+## 1. Cheat Sheets
 https://digitalcloud.training/category/aws-cheat-sheets/aws-solutions-architect-associate/
 
-##2.Decision Trees
+## 2.Decision Trees
 Refer to decision trees folder
 
-##3.AWS Resources - AWS Skill Builder
+## 3.AWS Resources - AWS Skill Builder
 
 Architect Learning Plan
 https://explore.skillbuilder.aws/learn/lp/78/architect-learning-plan 
@@ -20,7 +20,7 @@ https://explore.skillbuilder.aws/learn/course/9496/exam-prep-aws-certified-solut
 
 ## 4. Whitepapers
 - AWS Well architected framework white paper
-- 6 x Pillars whitepapers - Operational Excellance, Security, Cost, Sustainability, Effeciency, Reliability
+- 6 x Pillars whitepapers - Operational Excellance, Security, Cost, Sustainability, Efficiency, Reliability
 - AWS VPC Connectivity
 - Serverless multi-tier architecture
 
